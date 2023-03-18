@@ -1,13 +1,6 @@
-- 👋 Hi, I’m Diego (@d3a)
-- 🌱 I’m currently learning Flask, Django and Rust
-- 💞️ I’m looking to collaborate on Wargames
+# Bienvenidos a mi página personal de proyectos
 
-<!---
-- 👀 I’m interested in ...
-- 📫 How to reach me ...
-d3a/d3a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Banner de la página personal](https://pbs.twimg.com/profile_banners/3039913894/1425597151/1500x500)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/d3asencor?style=social)](https://twitter.com/d3asencor)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/779629?domain=https%3A%2F%2Fqoto.org%2F&style=social)](https://qoto.org/@d3a)
